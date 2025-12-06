@@ -1,1 +1,1 @@
-This repository is for ICT Lecture 7 Git tasks
+this is my assignment for ICT lecture 7.
